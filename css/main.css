@@ -96,7 +96,7 @@ header.fixed #logo{
 }
 
 .fixed #about a {
-    color: rgb(216, 160, 198);
+    color: rgb(99, 0, 68);
 }
 
 .fixed #about a:hover {
@@ -105,7 +105,7 @@ header.fixed #logo{
 
 #top{
     width: 100%;
-    background-image: url(https://cs10.pikabu.ru/post_img/2019/08/12/4/156558826512222432.jpg);
+    background-image: url(https://sun9-77.userapi.com/impg/1p4w4E_btnP24oWbidjUUvZX-86BFeOSGCiluA/WBO8_XUP1fo.jpg?size=400x271&quality=95&sign=a6a8d25bc6f544e7a279c4a3b4066f94&type=album);
     background-blend-mode:multiply ;
     background-color: rgb(252, 237, 251);
     background-size: cover;
@@ -169,7 +169,8 @@ header.fixed #logo{
     background-color:rgb(218, 255, 255) ;
     background-size: cover;
     background-attachment:fixed ;
-    padding: 100px 0; 
+    padding: 100px 0;
+    padding-bottom:40px; 
     width: 100%;
     text-align: center;
     color:rgb(255, 255, 255);
@@ -177,11 +178,12 @@ header.fixed #logo{
 }
 
 #jopa .img{
-
+     margin: auto;
+    width: 100%;
 }
 
 #jopa h1{
-    padding-bottom: 20%;
+    padding-bottom: 10px;
     text-align: center;
     width: 100%;
     font-size: 1.5em;
@@ -210,7 +212,7 @@ header.fixed #logo{
     background-color:rgb(218, 255, 255) ;
     background-size: cover;
     background-attachment:fixed ;
-    padding: 50px 0; 
+    padding: 100px 0; 
     width: 100%;
     text-align: center;
     color:rgb(255, 255, 255);
@@ -218,11 +220,12 @@ header.fixed #logo{
 }
 
 #blet .img{
-
+     margin: auto;
+    width: 100%;
 }
 
 #blet h1{
-    padding-bottom: 20%;
+    padding-bottom: 10px;
     text-align: center;
     width: 100%;
     font-size: 1.5em;
@@ -251,7 +254,7 @@ header.fixed #logo{
     background-color:rgb(218, 255, 255) ;
     background-size: cover;
     background-attachment:fixed ;
-    padding: 50px 0; 
+    padding: 100px 0; 
     width: 100%;
     text-align: center;
     color:rgb(255, 255, 255);
@@ -259,11 +262,12 @@ header.fixed #logo{
 }
 
 #dick .img{
-
+    margin: auto;
+    width: 100%;
 }
 
 #dick h1{
-    padding-bottom: 20%;
+    padding-bottom: 10px;
     text-align: center;
     width: 100%;
     font-size: 1.5em;
